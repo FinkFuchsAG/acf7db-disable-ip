@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: ACF/DB Disable IP
-Plugin URI: https://finkfuchs.de
+Plugin URI: https://github.com/FinkFuchsAG/acf7db-disable-ip
 Description: This plugin disables the ip storage of the form subimssions.
 Author: Manuel Dudda
 Version: 1.0
